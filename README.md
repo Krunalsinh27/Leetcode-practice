@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0367-valid-perfect-square) |
+## Array
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
