@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
 | [0303-range-sum-query-immutable](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
