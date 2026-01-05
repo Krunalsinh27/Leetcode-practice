@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0171-excel-sheet-column-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0171-excel-sheet-column-number) |
 ## Binary Search
 |  |
@@ -59,5 +60,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
