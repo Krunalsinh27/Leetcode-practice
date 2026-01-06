@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0189-rotate-array) |
 ## Design
 |  |
 | ------- |
