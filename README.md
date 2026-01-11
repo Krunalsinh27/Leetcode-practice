@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0171-excel-sheet-column-number) |
 ## Binary Search
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 ## Design
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
