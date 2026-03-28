@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -123,10 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -318,5 +323,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
