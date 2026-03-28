@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0605-can-place-flowers) |
+| [1382-balance-a-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -313,4 +318,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
