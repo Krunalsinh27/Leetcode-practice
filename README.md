@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0392-is-subsequence) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 ## Divide and Conquer
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Quickselect
 |  |
@@ -366,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
