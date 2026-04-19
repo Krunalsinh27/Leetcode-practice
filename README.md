@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0066-plus-one) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0203-remove-linked-list-elements) |
 ## Greedy
