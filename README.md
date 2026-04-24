@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
@@ -396,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0037-sudoku-solver) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
