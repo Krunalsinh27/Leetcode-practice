@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0338-counting-bits) |
 ## Counting
 |  |
 | ------- |
