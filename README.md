@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
@@ -492,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0220-contains-duplicate-iii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
