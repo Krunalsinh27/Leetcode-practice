@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0053-maximum-subarray) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0189-rotate-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0152-maximum-product-subarray) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Sliding Window
