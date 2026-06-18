@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0217-contains-duplicate) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0220-contains-duplicate-iii) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
