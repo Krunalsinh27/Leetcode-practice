@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0189-rotate-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0171-excel-sheet-column-number) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0191-number-of-1-bits) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
