@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1192-critical-connections-in-a-network) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -591,4 +592,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
+## Graph Theory
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
