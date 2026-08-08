@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Interactive
 |  |
