@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0733-flood-fill) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0733-flood-fill) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0547-number-of-provinces) |
 ## Queue
 |  |
 | ------- |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0547-number-of-provinces) |
 | [1192-critical-connections-in-a-network](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1192-critical-connections-in-a-network) |
 ## Biconnected Component
 |  |
