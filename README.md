@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1598-crawler-log-folder) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2951-find-the-peaks](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
