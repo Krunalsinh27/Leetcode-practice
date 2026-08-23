@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0853-car-fleet](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0853-car-fleet) |
+| [0881-boats-to-save-people](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0881-boats-to-save-people](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
@@ -629,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1192-critical-connections-in-a-network) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
