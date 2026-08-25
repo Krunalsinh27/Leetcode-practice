@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2951-find-the-peaks](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Prefix Sum
 |  |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0338-counting-bits) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting
 |  |
 | ------- |
