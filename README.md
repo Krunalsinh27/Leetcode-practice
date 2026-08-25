@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
