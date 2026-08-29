@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2951-find-the-peaks](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0547-number-of-provinces) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Queue
 |  |
 | ------- |
