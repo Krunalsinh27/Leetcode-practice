@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2951-find-the-peaks](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2951-find-the-peaks) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0881-boats-to-save-people](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Tree
 |  |
