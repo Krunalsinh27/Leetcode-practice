@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2600-k-items-with-the-maximum-sum) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## String
 |  |
 | ------- |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Enumeration
 |  |
