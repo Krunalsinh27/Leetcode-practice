@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
