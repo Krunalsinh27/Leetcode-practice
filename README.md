@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3871-count-commas-in-range-ii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3871-count-commas-in-range-ii) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Linked List
 |  |
 | ------- |
