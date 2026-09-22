@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0414-third-maximum-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
