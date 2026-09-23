@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0414-third-maximum-number) |
+| [0523-continuous-subarray-sum](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0567-permutation-in-string) |
@@ -708,4 +712,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0005-longest-palindromic-substring) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
