@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0881-boats-to-save-people) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
