@@ -728,4 +728,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0523-continuous-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
