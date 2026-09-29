@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2094-finding-3-digit-even-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2951-find-the-peaks](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2951-find-the-peaks) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1987-number-of-unique-good-subsequences) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0994-rotting-oranges) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Interactive
 |  |
@@ -744,4 +747,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
