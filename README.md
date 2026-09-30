@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0981-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1598-crawler-log-folder](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1598-crawler-log-folder) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
