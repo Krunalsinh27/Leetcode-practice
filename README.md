@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0392-is-subsequence) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0733-flood-fill) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
