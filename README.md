@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2951-find-the-peaks](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2951-find-the-peaks) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2951-find-the-peaks) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bucket Sort
