@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2094-finding-3-digit-even-numbers) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Design
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0844-backspace-string-compare) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
