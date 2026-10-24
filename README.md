@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0994-rotting-oranges) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Krunalsinh27/Leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
